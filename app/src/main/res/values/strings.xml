@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="Btncambiar">Pasar a segundo activity</string>
+
+    <string name="vt2">Segundo Activity</string>
+    <string name="btn2">Regresar al primer activity</string>
+</resources>
